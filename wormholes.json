@@ -1,0 +1,956 @@
+{
+"H121":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+},
+"C125":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"O883":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"M609":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"L614":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"S804":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"N110":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"J244":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"Z060":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (50.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"F353":{
+	"Destination" : "Class 12 (Thera)",	
+	"AppearsIn" : "Class 1",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "100 000 000 kg	± 10% (5.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"Z647":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"D382":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"O477":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"Y683":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"N062":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"R474":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"B274":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"A239":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"E545":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 2",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"F135":{
+	"Destination" : "Class 12 / Thera",
+	"AppearsIn" : "Class 2 / Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"V301":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"I182":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"N968":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"T405":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "N770":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "A982":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "D845":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "5 000 000 000 kg	± 10% (16.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "500 000 000 kg"	
+   },
+   "U210":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+   "K346":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+   "F135":{
+	"Destination" : "Class 12 / Thera",
+	"AppearsIn" : "Class 2 / Class 3",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },  
+     "P060":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"N766":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+"C247":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+"X877":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+"H900":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"U574":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"S047":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"N290":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+},
+"K329":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 4",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 800 000 000 kg	(<= supercapital)",
+	"TotalJumpMass" : "5 000 000 000 kg	± 10% (2.78 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+},
+"Y790":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Class 5",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"D364":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Class 5",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"M267":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Class 5",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"E175":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Class 5",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"H296":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Class 5",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"V753":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Class 5",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"D792":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 5 / Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"C140":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 5 / Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"Z142":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 5 / Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"Q317":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"G024":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"L477":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"Z457":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"V911":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg  (<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"W237":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+},
+"B520":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+},
+"D792":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 5 / Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"C140":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 5 / Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"C391":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+},
+"C248":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+},
+"Z142":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 5 / Class 6",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"Z971":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "100 000 000 kg	± 10% (5.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+},
+"R943":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+},
+"X702":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",	
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+},
+"O128":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "100 000 000 kg"
+},
+"M555":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Highsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+},
+"B041":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Highsec",
+	"Lifetime" : "48 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (10.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+  },
+   "A641":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Highsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (2.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+  },
+  "R051":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Highsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+  },
+   "V283":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Highsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+  },
+   "T458":{
+	"Destination" : "Class 12 (Thera)",
+	"AppearsIn" : "Highsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "Z971":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "100 000 000 kg	± 10% (5.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+   },
+   "R943":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+   },
+   "X702":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+   },
+   "O128":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "100 000 000 kg"
+   },
+   "N432":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "U319":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "48 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+    },
+   "B449":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (2.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "N944":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "S199":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "M164":{
+	"Destination" : "Class 12 (Thera)",
+	"AppearsIn" : "Lowsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+  },
+   "Z971":{
+	"Destination" : "Class 1",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "100 000 000 kg	± 10% (5.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"
+   },
+  "R943":{
+	"Destination" : "Class 2",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen": "0 kg"	
+  },
+   "X702":{
+	"Destination" : "Class 3",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen": "0 kg"	
+  },
+  "O128":{
+	"Destination" : "Class 4",
+	"AppearsIn" : "Highsec / Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (3.33 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "100 000 000 kg"
+   },
+   "N432":{
+	"Destination" : "Class 5",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "U319":{
+	"Destination" : "Class 6",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "48 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "500 000 000 kg"	
+   },
+   "B449":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (2.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "N944":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "24 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "S199":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Lowsec / Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 350 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (2.22 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "L031":{
+	"Destination" : "Class 12 (Thera)",
+	"AppearsIn" : "Nullsec",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg	(<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "0 kg"	
+   },
+   "Q063":{
+	"Destination" : "Highsec",
+	"AppearsIn" : "Class 12 (Thera)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "20 000 000 kg	(<= battlecruiser)",
+	"TotalJumpMass" : "500 000 000 kg	± 10% (25.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+   "V898":{
+	"Destination" : "Lowsec",
+	"AppearsIn" : "Class 12 (Thera)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "2 000 000 000 kg	± 10% (6.67 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+   "E587":{
+	"Destination" : "Nullsec",
+	"AppearsIn" : "Class 12 (Thera)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "1 000 000 000 kg   (<= capital)",
+	"TotalJumpMass" : "3 000 000 000 kg	± 10% (3.00 × max jump mass)",
+	"Respawn" : "Static",
+	"MassRegen" : "0 kg"	
+   },
+   "E004":{
+	"Destination" : "Class 1",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+  "L005":{
+	"Destination" : "Class 2",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+   "Z006":{
+	"Destination" : "Class 3",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+   "M001":{
+	"Destination" : "Class 4",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+   "C008":{
+	"Destination" : "Class 5",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+   "G008":{
+	"Destination" : "Class 6",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+   "Q003":{
+	"Destination" : "Nullsec",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "1 000 000 000 kg	± 10% (200.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"	
+   },
+  "A009":{
+	"Destination" : "Class 13 (Shattered Frigate)",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "5 000 000 kg	(<= frigate/destroyer)",
+	"TotalJumpMass" : "500 000 000 kg 	± 10% (100.00 × max jump mass)",
+	"Respawn" : "Wandering",
+	"MassRegen" : "3000000000 kg"
+    },
+    "S877":{
+	"Destination" : "Class 14 (Sentinel Drifter)",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg (<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg ± 10% (2.50 × max jump mass)",
+	"Respawn":	"(unknown)",
+	"MassRegen": "(unknown)"
+   },
+   "B735":{
+	"Destination" : "Class 15 (Barbican Drifter)",
+	"AppearsIn":	"(unknown)"	,
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn":	"(unknown)"	,
+	"MassRegen":	"(unknown)"
+   },
+   "V928":{
+	"Destination" : "Class 16 (Vidette Drifter)",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn":	"(unknown)",
+	"MassRegen":	"(unknown)"
+   },
+   "C414":{
+	"Destination" : "Class 17 (Conflux Drifter)",
+	"AppearsIn":	"(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn":	"(unknown)",
+	"MassRegen":	"(unknown)"
+   },
+   "R259":{
+	"Destination" : "Class 18 (Redoubt Drifter)",
+	"AppearsIn": "(unknown)",
+	"Lifetime" : "16 hours",
+	"MaxMassperJump" : "300 000 000 kg	(<= battleship)",
+	"TotalJumpMass" : "750 000 000 kg	± 10% (2.50 × max jump mass)",
+	"Respawn": "(unknown)",
+    "MassRegen": "(unknown)"
+  },
+} 
